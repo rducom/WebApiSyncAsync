@@ -1,0 +1,8 @@
+﻿/.vs
+/packages
+*.mdf
+*.ldf
+/WebApiSyncAsync/bin
+/WebApiSyncAsync/obj/Debug
+/WebApiSyncAsync.Tests/bin/Debug
+/WebApiSyncAsync.Tests/obj/Debug
